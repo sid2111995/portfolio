@@ -1,0 +1,30 @@
+
+.img2 {
+    opacity: 0.78;
+    padding-top: 30px;
+ }
+.worklogo {
+    padding-left: 1.5%;
+ }
+
+h1 {
+    font-family: 'Arsenal', sans-serif;
+    font-weight: 300;
+    font-size: 50px;
+    color: #2d3c49;
+ }
+a {
+    font-size: 30px;
+    text-align: justify;
+    color: #e74c3c;
+    font-family: 'Arsenal', sans-serif;
+ }
+.feature {
+    padding: 12px;
+    text-align: center;
+
+ }
+h2 {
+    color: #7d97ad;
+    font-family: 'Arsenal', sans-serif;
+ }
